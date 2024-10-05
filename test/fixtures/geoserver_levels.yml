@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  geoserver_level: MyString
+  geoserver_username: MyString
+  geoserver_password: MyString
+
+two:
+  geoserver_level: MyString
+  geoserver_username: MyString
+  geoserver_password: MyString
